@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/notenest-110942-0aa1c35d/notes_app_frontend"
+}
